@@ -1,4 +1,4 @@
-# [Tahj Hamilton](https://www.linkedin.com/in/tahj-hamilton)'s IT & Cybersecurity Project Portfolio 🔐
+# [Tahj Hamilton](https://www.linkedin.com/in/tahjh)'s IT & Cybersecurity Project Portfolio 🔐
 
 I'm passionate about building secure, scalable infrastructure and solving problems hands-on. From vulnerability management to log analysis, these projects showcase my growth in cloud and security.
 
